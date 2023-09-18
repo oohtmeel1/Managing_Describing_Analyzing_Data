@@ -4,3 +4,6 @@ DTSA 5509 notes the class uses notebooks entierly for lecture so I took notes in
 Types of Data
 Tools for understanding data
 
+
+# Week 2:
+Run charts, frequency distributions, visualizations
