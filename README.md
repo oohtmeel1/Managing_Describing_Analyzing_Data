@@ -7,3 +7,6 @@ Tools for understanding data
 
 # Week 2:
 Run charts frequency distributions visualizations
+
+# Week 3:
+Probability distributions
